@@ -43,8 +43,8 @@ public OnScriptCash(playerid, amount, source)
 }
 ```
 
-## Related Callbacks
+## Related Functions
 
 The following callbacks might be useful, as they're related to this callback in one way or another. 
 
-...
+- [GetPlayerMoney](../functions/GetPlayerMoney): Retrieves the amount of money a player has.
